@@ -1,6 +1,6 @@
 ‎ <p align="center">
 <img src="https://files.catbox.moe/x5l7ec.png#right" width="990"  align="right">
-<img src="https://files.catbox.moe/64fspa.png#left" width="500" align="left">
+<img src="https://files.catbox.moe/64fspa.png#left" width="400" align="left">
 </br>
  <img src="https://files.catbox.moe/xwuvn2.png" height="200" align="center">  <img src="https://files.catbox.moe/qrlwz5.png" height="56"  align="center">  <img src="https://files.catbox.moe/s8aaek.png" height="900"  align="center">
 
